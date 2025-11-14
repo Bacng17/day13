@@ -1,0 +1,62 @@
+﻿/* ===== GENERAL ===== */
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+}
+
+/* ===== TOP NAV ===== */
+.navbar {
+    height: 56px !important;
+    z-index: 2000;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+/* ===== MAIN CONTAINER ===== */
+#layoutSidenav {
+    display: flex;
+    margin-top: 56px; /* tránh bị topnav che */
+    min-height: calc(100vh - 56px);
+}
+
+/* ===== LEFT MENU ===== */
+.sb-sidenav {
+    width: 220px;
+    background-color: #212529;
+    color: white;
+    /* quan trọng: giữ menu nằm bên trái và full height */
+    position: fixed;
+    top: 56px;
+    bottom: 0;
+    left: 0;
+    padding-top: 20px;
+    overflow-y: auto;
+}
+
+    .sb-sidenav .nav-link {
+        color: #adb5bd;
+        padding: 10px 20px;
+        display: block;
+    }
+
+        .sb-sidenav .nav-link:hover {
+            background-color: #343a40;
+            color: white;
+        }
+
+/* ===== CONTENT ===== */
+#layoutSidenav_content {
+    margin-left: 220px;
+    padding: 20px;
+    flex-grow: 1;
+    background-color: #f8f9fa;
+}
+
+/* TABLE */
+.table th {
+    background-color: #0d6efd;
+    color: white;
+}

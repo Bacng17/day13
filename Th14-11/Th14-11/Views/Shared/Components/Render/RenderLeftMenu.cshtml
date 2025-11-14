@@ -1,0 +1,21 @@
+﻿@model IEnumerable<Th14_11.Models.MenuItem>
+
+<div class="sb-sidenav-menu">
+    <div class="nav">
+
+        <div class="sb-sidenav-menu-heading">Core</div>
+        <a class="nav-link" asp-controller="Student" asp-action="Index">Students</a>
+        <a class="nav-link" asp-controller="Student" asp-action="Create">Add Student</a>
+
+        <div class="sb-sidenav-menu-heading mt-3">Menu</div>
+
+        @foreach (var i in Model)
+        {
+            <a class="nav-link" href="@i.Link">@i.Name</a>
+        }
+    </div>
+</div>
+
+<div class="sb-sidenav-footer">
+    Admin
+</div>
