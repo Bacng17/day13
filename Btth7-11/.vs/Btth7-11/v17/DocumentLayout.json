@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lttq_source\\Btth7-11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|d:\\lttq_source\\btth7-11\\btth7-11\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|solutionrelative:btth7-11\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|d:\\lttq_source\\btth7-11\\btth7-11\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|solutionrelative:btth7-11\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|d:\\lttq_source\\btth7-11\\btth7-11\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|solutionrelative:btth7-11\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|d:\\lttq_source\\btth7-11\\btth7-11\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|solutionrelative:btth7-11\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|d:\\lttq_source\\btth7-11\\btth7-11\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|solutionrelative:btth7-11\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|d:\\lttq_source\\btth7-11\\btth7-11\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|solutionrelative:btth7-11\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|d:\\lttq_source\\btth7-11\\btth7-11\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|solutionrelative:btth7-11\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|d:\\lttq_source\\btth7-11\\btth7-11\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|solutionrelative:btth7-11\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|d:\\lttq_source\\btth7-11\\btth7-11\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|solutionrelative:btth7-11\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|d:\\lttq_source\\btth7-11\\btth7-11\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|solutionrelative:btth7-11\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|d:\\lttq_source\\btth7-11\\btth7-11\\wwwroot\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|solutionrelative:btth7-11\\wwwroot\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|d:\\lttq_source\\btth7-11\\btth7-11\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|solutionrelative:btth7-11\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|d:\\lttq_source\\btth7-11\\btth7-11\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|solutionrelative:btth7-11\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|d:\\lttq_source\\btth7-11\\btth7-11\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|solutionrelative:btth7-11\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|d:\\lttq_source\\btth7-11\\btth7-11\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|solutionrelative:btth7-11\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|d:\\lttq_source\\btth7-11\\btth7-11\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|solutionrelative:btth7-11\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|d:\\lttq_source\\btth7-11\\btth7-11\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|solutionrelative:btth7-11\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|d:\\lttq_source\\btth7-11\\btth7-11\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|solutionrelative:btth7-11\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|d:\\lttq_source\\btth7-11\\btth7-11\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|solutionrelative:btth7-11\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|d:\\lttq_source\\btth7-11\\btth7-11\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|solutionrelative:btth7-11\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|d:\\lttq_source\\btth7-11\\btth7-11\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B164B3F2-6540-4E64-931A-613C0449D911}|Btth7-11\\Btth7-11.csproj|solutionrelative:btth7-11\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Btth7-11\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Btth7-11\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T03:52:03.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RenderLeftMenu.cshtml",
+              "DocumentMoniker": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "RelativeDocumentMoniker": "Btth7-11\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "ToolTip": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "RelativeToolTip": "Btth7-11\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T04:04:01.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Btth7-11\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Btth7-11\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T03:27:39.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Btth7-11\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Btth7-11\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwCMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T03:07:48.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Btth7-11\\Models\\Student.cs",
+              "ToolTip": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Models\\Student.cs",
+              "RelativeToolTip": "Btth7-11\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T03:03:26.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RenderViewComponent.cs",
+              "DocumentMoniker": "D:\\lttq_source\\Btth7-11\\Btth7-11\\ViewComponents\\RenderViewComponent.cs",
+              "RelativeDocumentMoniker": "Btth7-11\\ViewComponents\\RenderViewComponent.cs",
+              "ToolTip": "D:\\lttq_source\\Btth7-11\\Btth7-11\\ViewComponents\\RenderViewComponent.cs",
+              "RelativeToolTip": "Btth7-11\\ViewComponents\\RenderViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T04:01:44.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Btth7-11\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Btth7-11\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T03:18:28.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeftMenu.cshtml",
+              "DocumentMoniker": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Shared\\LeftMenu.cshtml",
+              "RelativeDocumentMoniker": "Btth7-11\\Views\\Shared\\LeftMenu.cshtml",
+              "ToolTip": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Shared\\LeftMenu.cshtml",
+              "RelativeToolTip": "Btth7-11\\Views\\Shared\\LeftMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T03:58:59.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "D:\\lttq_source\\Btth7-11\\Btth7-11\\wwwroot\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "Btth7-11\\wwwroot\\css\\bootstrap.min.css",
+              "ToolTip": "D:\\lttq_source\\Btth7-11\\Btth7-11\\wwwroot\\css\\bootstrap.min.css",
+              "RelativeToolTip": "Btth7-11\\wwwroot\\css\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-14T05:56:33.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TopNav.cshtml",
+              "DocumentMoniker": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Shared\\TopNav.cshtml",
+              "RelativeDocumentMoniker": "Btth7-11\\Views\\Shared\\TopNav.cshtml",
+              "ToolTip": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Shared\\TopNav.cshtml",
+              "RelativeToolTip": "Btth7-11\\Views\\Shared\\TopNav.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T03:58:42.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyLayoutHelper.cshtml",
+              "DocumentMoniker": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeDocumentMoniker": "Btth7-11\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "ToolTip": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeToolTip": "Btth7-11\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T04:05:06.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "Btth7-11\\Models\\MenuItem.cs",
+              "ToolTip": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Models\\MenuItem.cs",
+              "RelativeToolTip": "Btth7-11\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T04:00:15.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "styles.css",
+              "DocumentMoniker": "D:\\lttq_source\\Btth7-11\\Btth7-11\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "Btth7-11\\wwwroot\\css\\styles.css",
+              "ToolTip": "D:\\lttq_source\\Btth7-11\\Btth7-11\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "Btth7-11\\wwwroot\\css\\styles.css",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-07T04:09:14.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "scripts.js",
+              "DocumentMoniker": "D:\\lttq_source\\Btth7-11\\Btth7-11\\wwwroot\\js\\scripts.js",
+              "RelativeDocumentMoniker": "Btth7-11\\wwwroot\\js\\scripts.js",
+              "ToolTip": "D:\\lttq_source\\Btth7-11\\Btth7-11\\wwwroot\\js\\scripts.js",
+              "RelativeToolTip": "Btth7-11\\wwwroot\\js\\scripts.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-07T04:08:57.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "Btth7-11\\Models\\Gender.cs",
+              "ToolTip": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Models\\Gender.cs",
+              "RelativeToolTip": "Btth7-11\\Models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T02:55:53.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "Btth7-11\\Models\\Branch.cs",
+              "ToolTip": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Models\\Branch.cs",
+              "RelativeToolTip": "Btth7-11\\Models\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T03:02:51.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MyLayout.cshtml",
+              "DocumentMoniker": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeDocumentMoniker": "Btth7-11\\Views\\Shared\\MyLayout.cshtml",
+              "ToolTip": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeToolTip": "Btth7-11\\Views\\Shared\\MyLayout.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T03:49:02.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "Btth7-11\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "Btth7-11\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T03:59:15.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Btth7-11\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Btth7-11\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T03:18:27.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Btth7-11\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Btth7-11\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T03:16:13.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Btth7-11\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\lttq_source\\Btth7-11\\Btth7-11\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Btth7-11\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T03:51:38.629Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

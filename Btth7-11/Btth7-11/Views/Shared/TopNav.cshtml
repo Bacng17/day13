@@ -1,0 +1,9 @@
+﻿<nav class="navbar navbar-expand navbar-dark bg-dark fixed-top">
+    <a class="navbar-brand ps-3 text-white fw-bold" href="/">Management System</a>
+    <div class="ms-auto me-3 d-flex align-items-center">
+        <form class="d-flex" asp-controller="Students" asp-action="Index" method="get">
+            <input class="form-control me-2" type="search" name="searchString" placeholder="Search..." />
+            <button class="btn btn-primary" type="submit">Tìm</button>
+        </form>
+    </div>
+</nav>

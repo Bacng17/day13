@@ -1,0 +1,11 @@
+﻿@using Btth7_11.Models
+@model IEnumerable<Btth7_11.Models.MenuItem>
+
+<div class="sb-sidenav-menu-heading">Addons</div>
+@foreach (var i in Model)
+{
+    <a class="nav-link" href="@i.Link">
+        <div class="sb-nav-link-icon"><i class="fas fa-chart-area"></i></div>
+        @i.Name
+    </a>
+}
